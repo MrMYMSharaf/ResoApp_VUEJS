@@ -1,0 +1,32 @@
+->Create the project
+ npm i -g @vue/cli-serice-global
+ vue creat myapp
+
+// Start 
+ - npm run serve
+
+// api file install 
+  npm install -g json-server
+  json_server --watch db.json
+
+//Set up JSON Server in an Application
+ npm install -g json-server
+ run->
+      Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass
+      json-server --watch db.json
+install route
+npm i axios
+
+// animatiom 
+ -npm i @vueuse/motion   
+
+future impliment
+ -State Management : npm install pinia
+ -UI Frameworks : npm install vuetify
+-Form Validation (VeeValidate) : npm install vee-validate
+-Animations & Transitions : npm install animate.css
+
+
+ Testing Frameworks
+- Jest or Mocha for unit testing : -npm install jest
+- Cypress for end-to-end testing, especially useful for testing UI interactions : -npm install cypress

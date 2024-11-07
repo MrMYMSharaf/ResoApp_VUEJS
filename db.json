@@ -1,0 +1,101 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Juliet Oma",
+        "email": "julie@yahoo.com",
+        "number": "08100000000"
+      },
+      {
+        "id": 2,
+        "name": "James Williams",
+        "email": "jameswilly@gmail.com",
+        "number": "08111111111"
+      },
+      {
+        "id": 3,
+        "name": "Ahmed Ali",
+        "email": "ahmedali012@gmail.com",
+        "number": "09022222222"
+      },
+      {
+        "id": 4,
+        "name": "Grace Funsho",
+        "email": "gracefunsho@gmail.com",
+        "number": "09033333333"
+      }
+    ],
+    "restaurants":[
+        {
+            "id": "1",
+            "restaurant_name": "The Gourmet Spot",
+            "address": "123 Food Street, City Center",
+            "contact": "08040000001",
+            "cuisine": "Continental"
+        },
+        {
+            "id": "2",
+            "restaurant_name": "Spice of India",
+            "address": "45 Curry Avenue, Downtown",
+            "contact": "08040000002",
+            "cuisine": "Indian"
+        },
+        {
+            "id": "3",
+            "restaurant_name": "Bella Italia",
+            "address": "78 Pasta Lane, Eastside",
+            "contact": "08040000003",
+            "cuisine": "Italian"
+        },
+        {
+            "id": "4",
+            "restaurant_name": "Sushi World",
+            "address": "32 Seaweed Blvd, Uptown",
+            "contact": "08040000004",
+            "cuisine": "Japanese"
+        },
+        {
+            "id": "5",
+            "restaurant_name": "El Mexicano",
+            "address": "11 Taco Street, Southside",
+            "contact": "08040000005",
+            "cuisine": "Mexican"
+        },
+        {
+            "id": "6",
+            "restaurant_name": "Burger Haven",
+            "address": "67 Grill Drive, City Center",
+            "contact": "08040000006",
+            "cuisine": "American"
+        },
+        {
+            "id": "7",
+            "restaurant_name": "Oriental Palace",
+            "address": "12 Wok Street, Chinatown",
+            "contact": "08040000007",
+            "cuisine": "Chinese"
+        },
+        {
+            "id": "8",
+            "restaurant_name": "Thai Taste",
+            "address": "99 Lemongrass Avenue, Downtown",
+            "contact": "08040000008",
+            "cuisine": "Thai"
+        },
+        {
+            "id": "9",
+            "restaurant_name": "Cafe Paris",
+            "address": "50 Eiffel Drive, Midtown",
+            "contact": "08040000009",
+            "cuisine": "French"
+        },
+        {
+            "id": "10",
+            "restaurant_name": "Green Leaf",
+            "address": "28 Healthy Lane, Eastside",
+            "contact": "08040000010",
+            "cuisine": "Vegan"
+        }
+    ]
+    
+  }
