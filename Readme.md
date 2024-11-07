@@ -1,4 +1,3 @@
-```markdown
 # Vue.js Project Setup
 
 Welcome to the **Vue.js Project Setup** repository! This project is designed to provide a comprehensive setup for Vue.js applications. It includes basic Vue.js functionality, routing, API integration, animations, and additional future implementations for state management, UI frameworks, form validation, testing, and more.
